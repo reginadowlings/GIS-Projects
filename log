@@ -1,0 +1,2 @@
+202503231220   0     0     0Lab Admin C:\Users\Lab Admin\Desktop\Geo Intelligence\cmh_04 = POINTDENSITY(crime04, NONE, 482.07855911908348, SIMPLE, 1.0, Circle, 4017.3
+202503231238   0     0     0Lab Admin C:\Users\Lab Admin\Desktop\Geo Intelligence\water_qty = IDW(WaterQuality,  'P_MEAS', #, 2.0, SAMPLE, 12, #, 0.092867093600000006
